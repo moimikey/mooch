@@ -35,7 +35,7 @@
         "coveralls": "~2.0",
         "mocha": "~1.12",
         "mocha-lcov-reporter": "~0.0",
-        "portfinder": "0.2",
+        "portfinder": "1.0",
         "sinon": "~1.7"
     },
     "licenses": [
